@@ -1,0 +1,43 @@
+p {
+  font-family: Impact;
+}
+
+h1 {
+  color: Green;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+h5 {
+  color: rebeccapurple !important;
+}
+
+h5,
+p {
+  font-family: Impact;
+}
+
+.title {
+  color: Green;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+
+.cursive {
+  font-family: Impact;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.description h5 {
+  color: Purple;
+}
